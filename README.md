@@ -10,17 +10,6 @@ If you are here, it means you are interested in joining us. :smile:
 
 ### Brief summary on the daily life of a software engineer at Gympass
 You will have the opportunity to work with:
-
-- Large and scalable distributed systems
-- Building event-driven systems
-- Low latency and high throughput APIs
-- Applying the best practices of software development
-    - TDD
-    - DDD
-    - High % of test code coverage
-    - Separation of concerns
-    - Code Review
-    - Pair programming
 - Monitoring and Observability
 - Relational and NoSQL databases
 - Multiple programming languages: __*Go, Scala, Ruby, Kotlin, Python*__
